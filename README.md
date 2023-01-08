@@ -1,4 +1,4 @@
-# Quant-Trading
+# Template for Batch Jobs
 
 
 ## Setup
