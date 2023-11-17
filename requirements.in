@@ -1,4 +1,5 @@
 python-dotenv
+ruff
 
 
 rich-click
